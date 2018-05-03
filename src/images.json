@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "Images/image1.jpg",
+        "name":"Aang"
+    },
+    {
+        "id": 2,
+        "image": "Images/image2.jpg",
+        "name":"Katara"
+    },
+    {
+        "id": 3,
+        "image": "Images/image3.jpg",
+        "name":"Aang Avatar State"
+    },
+    {
+        "id": 4,
+        "image": "Images/image4.jpg",
+        "name":"Sokka"
+    },
+    {
+        "id": 5,
+        "image": "Images/image5.png",
+        "name":"Toph"
+    },
+    {
+        "id": 6,
+        "image": "Images/image6.jpg",
+        "name":"Zuko"
+    },
+    {
+        "id": 7,
+        "image": "Images/image7.jpg",
+        "name":"Iroh"
+    },
+    {
+        "id": 8,
+        "image": "Images/image8.png",
+        "name":"Azula"
+    },
+    {
+        "id": 9,
+        "image": "Images/image9.jpg",
+        "name":"Momo"
+    },
+    {
+        "id": 10,
+        "image": "Images/image10.jpg",
+        "name":"Appa"
+    },
+    {
+        "id": 11,
+        "image": "Images/image11.jpg",
+        "name":"Mai"
+    },
+    {
+        "id": 12,
+        "image": "Images/image12.jpg",
+        "name":"Ty Lee"
+    }
+]
